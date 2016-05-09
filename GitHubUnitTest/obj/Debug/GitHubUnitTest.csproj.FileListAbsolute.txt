@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\bin\Debug\GitHubUnitTest.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\bin\Debug\GitHubUnitTest.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\obj\Debug\GitHubUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\obj\Debug\GitHubUnitTest.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\GitHubTest\GitHubUnitTest\obj\Debug\GitHubUnitTest.pdb
